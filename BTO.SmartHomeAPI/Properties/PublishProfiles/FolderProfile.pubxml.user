@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\WebSites\SmartHome\SmartHomeAPI</_PublishTargetUrl>
+    <History>True|2022-04-24T14:56:41.0000120Z;True|2022-04-24T17:40:02.2366964+03:00;True|2022-04-24T04:38:26.1674948+03:00;True|2022-04-24T02:49:37.2041170+03:00;False|2022-04-24T02:49:19.8597508+03:00;False|2022-04-24T02:48:52.5982487+03:00;True|2022-04-24T01:30:34.8791950+03:00;True|2022-04-24T00:31:29.5218860+03:00;False|2022-04-24T00:31:01.5721500+03:00;False|2022-04-24T00:30:20.4194129+03:00;True|2022-04-24T00:24:12.9350738+03:00;True|2022-04-23T06:27:05.8304599+03:00;False|2022-04-23T06:26:02.6791778+03:00;True|2022-04-23T06:21:51.3730906+03:00;True|2022-04-23T03:59:46.7481288+03:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\bin\Debug\net5.0\BTO.SmartHomeComon.deps.json
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\bin\Debug\net5.0\BTO.SmartHomeComon.dll
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\bin\Debug\net5.0\ref\BTO.SmartHomeComon.dll
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\bin\Debug\net5.0\BTO.SmartHomeComon.pdb
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.csprojAssemblyReference.cache
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.AssemblyInfoInputs.cache
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.AssemblyInfo.cs
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.csproj.CoreCompileInputs.cache
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.dll
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\ref\BTO.SmartHomeComon.dll
+C:\Users\OrcunTEN\source\repos\SmartHome\BTO.SmartHomeComon\obj\Debug\net5.0\BTO.SmartHomeComon.pdb

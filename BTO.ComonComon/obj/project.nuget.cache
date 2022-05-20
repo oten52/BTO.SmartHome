@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0PPBh9joQLt7IlQLdGh8IW0aNORHO3EoeMGrAGuv8Zo6EwCuMY461pylz27xDBA9OooczNeG0075mPMz58Yiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OrcunTEN\\source\\repos\\SmartHome\\BTO.ComonComon\\BTO.ComonComon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OrcunTEN\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\OrcunTEN\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\OrcunTEN\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\OrcunTEN\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\OrcunTEN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\OrcunTEN\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
